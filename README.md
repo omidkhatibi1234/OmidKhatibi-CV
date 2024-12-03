@@ -1,1 +1,1 @@
-# OmidKhatibi-CV
+Hi there! I'm Omid, a passionate front-end web developer and optimization enthusiast fluent in Persian and English. While my primary goal is to consistently improve my skills and expand my knowledge, I currently work as a freelance web developer, creating seamless user experiences and fine-tuning website performance. In addition, I take pleasure in sharing my expertise with fellow developers and have been willingly contributing to various developer communities on social media platforms for the last 2 years.
